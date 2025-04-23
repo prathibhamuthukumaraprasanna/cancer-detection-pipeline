@@ -10,6 +10,8 @@ This project implements and compares two approaches for cancer type classificati
 
 The pipeline includes comprehensive data preprocessing, exploratory data analysis, model training, evaluation, and comparison.
 
+transformer_model Folder is uploaded here ![Google Drive](https://drive.google.com/drive/folders/12bBw1PWfXB8m9I4X1T-ikK0im_OQVmhG?usp=sharing)
+
 ## Results
 
 The transformer-based approach significantly outperforms the baseline model:
