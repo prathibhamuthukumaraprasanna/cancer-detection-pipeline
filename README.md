@@ -89,11 +89,16 @@ cancer-detection-pipeline/
 │   ├── train.parquet               # Training data
 │   ├── validation.parquet          # Validation data
 │   └── test.parquet                # Test data
+├── transformer_model/              # Transformer Model directory
+│   ├── config.json                 
+│   ├── special_tokens_map.json     
+│   ├── tokenizer_config.json       
+│   ├── tokenizer.json              
+│   └── vocab.txt  
 ├── img1.png                        # Model comparison visualization
 ├── img2.png                        # Transformer confusion matrix
 ├── img3.png                        # Baseline confusion matrix
 ├── img4.png                        # Text length distribution
-├── IEEE_Paper.pdf                  # Project summary report
 ├── requirements.txt                # Package dependencies
 └── README.md                       # This file
 ```
