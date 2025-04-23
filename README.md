@@ -133,14 +133,14 @@ cancer-detection-pipeline/
 Prathibha Muthukumara Prasanna  
 Department of Biostatistics  
 University of Michigan  
-prathiia@umich.edu
+prathii@umich.edu
 
 ## Citation
 
 If you use this code in your research, please cite:
 
 ```
-@misc{prasanna2025cancer,
+@misc{prathii2025cancerdetection,
   author = {Muthukumara Prasanna, Prathibha},
   title = {BioBERT vs. TF-IDF for Multi-Class Cancer Classification from Biomedical Text},
   year = {2025},
