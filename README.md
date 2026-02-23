@@ -86,23 +86,23 @@ The script will:
 
 ```
 cancer-detection-pipeline/
-├── cancer-detection-pipeline.py    # Main Python script
-├── data/                           # Data directory
-│   ├── train.parquet               # Training data
-│   ├── validation.parquet          # Validation data
-│   └── test.parquet                # Test data
-├── transformer_model/              # Transformer Model directory
+├── cancer-detection-pipeline.py    
+├── data/                           
+│   ├── train.parquet               
+│   ├── validation.parquet          
+│   └── test.parquet                
+├── transformer_model/              
 │   ├── config.json                 
 │   ├── special_tokens_map.json     
 │   ├── tokenizer_config.json       
 │   ├── tokenizer.json              
 │   └── vocab.txt  
-├── img1.png                        # Model comparison visualization
-├── img2.png                        # Transformer confusion matrix
-├── img3.png                        # Baseline confusion matrix
-├── img4.png                        # Text length distribution
-├── requirements.txt                # Package dependencies
-└── README.md                       # This file
+├── img1.png                        
+├── img2.png                        
+├── img3.png                        
+├── img4.png                        
+├── requirements.txt                
+└── README.md                      
 ```
 
 ## Performance Metrics
